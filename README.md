@@ -28,5 +28,12 @@ React Homework Option 1
 
 - Component Life Cycle
 
+  - To understand Component Life Cycle.  It helps to understand components.  A component is a chunk of code that works like a function.  It can be called with prop and render the results to the screen (that is the most common, but only thing a component can do).  When a component renders something to the (Document Object Model) DOM it is "mounted".  When it is removed from the DOM it is "unmounted".  Many component life cycles contain the word did or will.  
+  Componentwillmount 
+  
+  
+
+
+
 
 
