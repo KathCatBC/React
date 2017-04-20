@@ -2,21 +2,21 @@
 React Homework Option 1
 
 
-Props
+- Props
   Props is short for properties.
   They are part of a components configuration.
   They are immutable (cannot be changed) within the component.
   Props can change state, but should not be changed by state.
   Props can change the way the state is rendered.
 
-State
+- State
   Can be changed (mutable)
   Can be passed to a child component as a prop
   The state of an item is how it exists at any point in time/process.
   The state of an item can be altered by a component.
 
 
-Props & State examples:
+- Props & State examples:
 
   For a props/state example.  Let's consider my eyes.  They are hazel and my vision is not very good.
 
@@ -26,7 +26,7 @@ Props & State examples:
   
 
 
-Component Life Cycle
+- Component Life Cycle
 
 
 
