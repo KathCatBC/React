@@ -3,11 +3,11 @@ React Homework Option 1
 
 
 - Props
-  Props is short for properties.
-  They are part of a components configuration.
-  They are immutable (cannot be changed) within the component.
-  Props can change state, but should not be changed by state.
-  Props can change the way the state is rendered.
+  - Props is short for properties.
+  - They are part of a components configuration.
+  - They are immutable (cannot be changed) within the component.
+  - Props can change state, but should not be changed by state.
+  - Props can change the way the state is rendered.
 
 - State
   Can be changed (mutable)
