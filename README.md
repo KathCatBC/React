@@ -22,7 +22,7 @@ React Homework Option 1
 
   - I cannot change the color of my eyes (prop).  I can add colored contact lens (state).  This will make my eyes appear to be a different color (render) but have not changed the prop.
 
-  - I can also added glasses (change the state) this will render better vision - but will not change the prop of my vision.
+  - Or, I can also added glasses (change the state) this will render better vision - but will not change the prop of my vision.
   
 
 
